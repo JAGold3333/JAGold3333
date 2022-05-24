@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob A Goldberg</h1>
-<h3 align="center">Full Stack Engineer</h3>
+<h3 align="center">Software Engineer at @100Devs</h3>
 
 - 👨‍💻 Check out my portfolio [https://jacobagoldbergdev.netlify.app/](https://jacobagoldbergdev.netlify.app/)
 
